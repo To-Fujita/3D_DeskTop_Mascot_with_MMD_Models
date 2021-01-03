@@ -1,0 +1,47 @@
+Item,MMD Model Data,Model Name,
+Model,Data/AyaseHina160/AyaseHina.mv1,Ayase Hina,
+Model,Data/KobayashiSaya_Refine173/KobayashiSaya_Refine.mv1,Kobayashi Saya,
+Model,Data/YumemiNemu_MMD_ver_1_0/YumemiNemu_mmd.mv1,YumemiNemu,
+Model,Data/YumemiNemu_MMD_ver_1_0/YumemiNemu_mmd_sleeveshort.mv1,YumemiNemu_SS,
+
+Item,Motion No.,Note,Frames
+Motion,0,To bow,115
+Motion,1,Standing,20
+Motion,2,Walk-1,130
+Motion,3,Walk-2,130
+Motion,4,Rest,2810
+Motion,5,To bow 3 times,135
+Motion,6,Radio calisthenics No.1,5810
+Motion,7,Radio calisthenics No.2,5545
+Motion,8,Jojo calisthenics,6650
+Motion,9,Chinese shadow boxing,6030,,,,,
+Motion,10,Sit down,70,,,,,
+Motion,11,Sit No. 1,600,,,,,
+Motion,12,Sit No. 2,600,,,,,
+Motion,13,Stand up,70,,,,,
+
+Item,Start Time,Start Time,Motion,Motion,Physics,Motion,Motion,Motion
+Item,Hour,Minutes,No.,Speed,calc ON/OFF,Command,Additional,Additional
+Note,,,,0.6,: Normal Speed,,,
+Note,,,,,,One-Shot,,
+Note,,,,,,Loop,,
+Note,,,,,,,Random,
+Note,,,,,,,,
+Schedule,0,0,12,0.4,OFF,Loop,,
+Schedule,7,0,13,0.6,OFF,One-Shot,,
+Schedule,7,1,1,0.6,ON,Loop,,
+Schedule,7,30,6,0.7,ON,One-Shot,Random
+Schedule,7,30,7,0.7,ON,One-Shot,Random
+Schedule,7,30,8,0.7,OFF,One-Shot,Random
+Schedule,7,40,4,0.6,ON,Loop,
+Schedule,10,0,9,0.4,OFF,One-Shot,
+Schedule,10,10,1,0.4,ON,Loop,
+Schedule,12,0,5,0.4,ON,One-Shot,
+Schedule,12,5,2,0.8,ON,Loop,
+Schedule,13,30,3,0.8,ON,Loop,
+Schedule,15,0,0,0.6,ON,One-Shot,
+Schedule,15,2,9,0.7,ON,Loop,
+Schedule,16,0,10,0.6,OFF,One-Shot,
+Schedule,16,1,11,0.6,OFF,Loop,
+Schedule,17,0,11,0.4,OFF,Loop,Random
+Schedule,17,0,12,0.4,OFF,Loop,Random
