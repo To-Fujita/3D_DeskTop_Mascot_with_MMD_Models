@@ -10,8 +10,8 @@ This is a program for 3D Desk Top Mascot based on the Visual Studio 2019 c# and 
 (2) Radio calisthenics No.2 by にぼさない  
 (3) Jojo calisthenics by せっけんP  
 (4) Rest(Rain) by ふぃぎゅ＠たっち https://twitter.com/anna_mirrors  
-These copyrights for models and motions are owned by each party.  
 
+These copyrights for models and motions are owned by each party.  
 
 ## 2. Demo
 After download and unzip the zip file from the "Code" above, please double click the file of "DeskTop_Mascot.sln". Then, you can create an executable file for the Desk Top Mascot as below. If you execute this program, you can change the model or motion, camera position, etc. by right click the Monkey icon at the right side of "TASKBAR".
