@@ -14,7 +14,7 @@ These copyrights for models and motions are owned by each party.
 
 
 ## 2. Demo
-
+After download and unzip the zip file from the "Code" above, please double click the file of "DeskTopMascot.sln". Then, you can create an executable file for the Desk Top Mascot as below.
 ![Image1](https://to-fujita.github.io/Images/DeskTopMascot.png "Image for DesdkTop Mascot")
 
 ![Image2](https://to-fujita.github.io/Images/DeskTopMascot_Setting.png "Image for Setting of DeskTop Mascot")
