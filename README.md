@@ -28,9 +28,9 @@ For Example:
 - Download motion file -3: Skip.vmd -> Rename to: YumemiNemu_mmd002.vmd  
 ### Step-2:
 To download the latest version of dxlib file at [DXライブラリ置き場 ダウンロード](https://dxlib.xsrv.jp/dxdload.html).   
-Use the viewer of "DxLibModelViewer_64bit.exe" at Tool directory to creat ".mv1" file that is combined model file and motion files. 
+Use the viewer of "\Tool\DxLibModelViewer\DxLibModelViewer_64bit.exe" to creat ".mv1" file that is combined model file and motion files, to reduce the file read time. 
 ### Step-3:
-
+Please change the "\Data\DeskTopMascot_Setting.csv" file to your created files. The csv file format is as follows. 
 ![Image2](https://to-fujita.github.io/Images/DeskTopMascot_Setting.png "Image for Setting of DeskTop Mascot")
 
 ## 3. Reference
