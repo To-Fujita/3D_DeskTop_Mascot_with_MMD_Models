@@ -10,7 +10,8 @@ This is a program for 3D Desk Top Mascot based on the Visual Studio 2019 c# and 
 (2) Radio calisthenics No.2 by にぼさない  
 (3) Jojo calisthenics by せっけんP  
 (4) Rest(Rain) by ふぃぎゅ＠たっち https://twitter.com/anna_mirrors  
-These copyrights for models and motions are owned by each party.
+These copyrights for models and motions are owned by each party.  
+
 
 ## 2. Demo
 
@@ -28,7 +29,7 @@ These copyrights for models and motions are owned by each party.
 [Visual Studio](https://visualstudio.microsoft.com/ja/)  
 [MMDのはじめかた](https://w.atwiki.jp/vpvpwiki/pages/187.html)  
 [DXライブラリ置き場](https://dxlib.xsrv.jp/)  
-[デスクトップマスコットの作り方](https://qiita.com/massoumen/items/2985a0fb30472b97a590)
+[デスクトップマスコットの作り方](https://qiita.com/massoumen/items/2985a0fb30472b97a590)  
 [MMDダウンロード｜アイキャラ4｜日本テレビ](https://www.ntv.co.jp/ichara/mmd.html)  
 [夢眠ネムMMDモデル｜VOCALOID(TM)4](https://nemurion.com/download/)  
 
