@@ -21,9 +21,9 @@ After download and unzip the zip file from the "Code" above, please double click
 
 ## 3. Reference
 ### English Site
-[Learn MikuMikuDance ](https://learnmmd.com) 
+[Learn MikuMikuDance ](https://learnmmd.com)  
 [DX Library](http://nagarei.github.io/DxLibEx/index.html)  
-[Yumemi Nemu Official MMD Model Released! - VNN](https://www.vocaloidnews.net/yumemi-nemu-official-mmd-model-released/) 
+[Yumemi Nemu Official MMD Model Released! - VNN](https://www.vocaloidnews.net/yumemi-nemu-official-mmd-model-released/)  
 
 ### Japanese Site
 [Visual Studio](https://visualstudio.microsoft.com/ja/)  
