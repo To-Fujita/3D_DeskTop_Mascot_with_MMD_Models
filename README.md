@@ -1,6 +1,16 @@
 # 3D_DeskTop_Mascot_with_MMD_Models
 ## 1. Description:
-This is a program for 3D Desk Top Mascot based on the Visual Studio 2019 c# and DX Library. The 3D animations are used MMD (MikuMikuDance) models and motions.
+This is a program for 3D Desk Top Mascot based on the Visual Studio 2019 c# and DX Library. The 3D animations are used following MMD (MikuMikuDance) models and motions.  
+- MMD Models
+(1) Ayase Hina: ©NTV http://www.ntv.co.jp/ichara/mmd.html  
+(2) Kobayashi Saya: ©NTV http://www.ntv.co.jp/ichara/mmd.html  
+(3) YumemiNemu: ©DEARSTAGE inc. https://www.vocaloidnews.net/yumemi-nemu-official-mmd-model-released/
+- MMD Motions
+(1) Radio calisthenics No.1 by ガンプラP
+(2) Radio calisthenics No.2 by にぼさない
+(3) Jojo calisthenics by せっけんP
+(4) Rest(Rain) by ふぃぎゅ＠たっち https://twitter.com/anna_mirrors
+These copyrights for models and motions are owned by each party.
 
 ## 2. Demo:
 
@@ -12,7 +22,7 @@ This is a program for 3D Desk Top Mascot based on the Visual Studio 2019 c# and 
 ### English Site
 [Learn MikuMikuDance ](https://learnmmd.com) 
 [DX Library](http://nagarei.github.io/DxLibEx/index.html)  
- 
+[Yumemi Nemu Official MMD Model Released! - VNN](https://www.vocaloidnews.net/yumemi-nemu-official-mmd-model-released/) 
 
 ### Japanese Site
 [Visual Studio](https://visualstudio.microsoft.com/ja/)  
