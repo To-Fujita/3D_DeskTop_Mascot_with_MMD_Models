@@ -18,11 +18,16 @@ After download and unzip the zip file from the "Code" above, please double click
 ![Image1](https://to-fujita.github.io/Images/DeskTopMascot.png "Image for DesdkTop Mascot")
    
 If you want to create new models and new motions for the Desk Top Mascot, please refer to the next steps.  
-### Step-1
+### Step-1:
+To create or to download new models and new motions from MMD download site. Then, rename the motion files as like "model file name" + 3 digit of numbers + ".vmd".   
+For Example:  
+- Download model file: YumemiNemu_mmd.pmx  
+- Download motion file -1: Walk.vmd -> Rename: YumemiNemu_mmd000.vmd  
+- Download motion file -2: Run.vmd --> Rename: YumemiNemu_mmd001.vmd  
+- Download motion file -3: Skip.vmd -> Rename: YumemiNemu_mmd002.vmd  
+### Step-2:
 
-### Step-2
-
-### Step-3
+### Step-3:
 
 ![Image2](https://to-fujita.github.io/Images/DeskTopMascot_Setting.png "Image for Setting of DeskTop Mascot")
 
