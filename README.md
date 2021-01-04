@@ -4,7 +4,9 @@ This is a program for Desk Top Mascot based on the Visual Studio 2019 c#.
 
 ## 2. Demo:
 
-![Image1]()
+![Image1](https://to-fujita.github.io/Images/DeskTopMascot.png "Image for DesdkTop Mascot")
+
+![Image2](https://to-fujita.github.io/Images/DeskTopMascot_Setting.png "Image for Setting of DeskTop Mascot")
 
 ## 3. Reference:
 ### English Site
