@@ -20,11 +20,12 @@ After download and unzip the zip file from the "Code" above, please double click
 If you want to create new models and new motions for the Desk Top Mascot, please refer to the next steps.  
 ### Step-1:
 To create or to download new models and new motions from MMD download site. Then, rename the motion files as like "model file name" + 3 digit of numbers + ".vmd".   
+  
 For Example:  
 - Download model file: YumemiNemu_mmd.pmx  
-- Download motion file -1: Walk.vmd -> Rename: YumemiNemu_mmd000.vmd  
-- Download motion file -2: Run.vmd --> Rename: YumemiNemu_mmd001.vmd  
-- Download motion file -3: Skip.vmd -> Rename: YumemiNemu_mmd002.vmd  
+- Download motion file -1: Walk.vmd -> Rename to: YumemiNemu_mmd000.vmd  
+- Download motion file -2: Run.vmd -> Rename to: YumemiNemu_mmd001.vmd  
+- Download motion file -3: Skip.vmd -> Rename to: YumemiNemu_mmd002.vmd  
 ### Step-2:
 
 ### Step-3:
