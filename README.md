@@ -19,7 +19,7 @@ After download and unzip the zip file from the "Code" above, please double click
    
 If you want to create new models and new motions for the Desk Top Mascot, please refer to the next steps.  
 ### Step-1:
-To create or to download new models and new motions from MMD download site. Then, rename the motion files as like "model file name" + 3 digit of numbers + ".vmd".   
+To download (or to creat) new models and new motions from MMD download site. Then, rename the motion files as like "model file name" + 3 digit of numbers + ".vmd". Please save those files in the same directory at "Data" folder of DeskTopMascot.  
   
 For Example:  
 - Download model file: YumemiNemu_mmd.pmx  
@@ -27,7 +27,8 @@ For Example:
 - Download motion file -2: Run.vmd -> Rename to: YumemiNemu_mmd001.vmd  
 - Download motion file -3: Skip.vmd -> Rename to: YumemiNemu_mmd002.vmd  
 ### Step-2:
-
+To download the latest version of dxlib file at [DXライブラリ置き場 ダウンロード](https://dxlib.xsrv.jp/dxdload.html).   
+Use the viewer of "DxLibModelViewer_64bit.exe" at Tool directory to creat ".mv1" file that is combined model file and motion files. 
 ### Step-3:
 
 ![Image2](https://to-fujita.github.io/Images/DeskTopMascot_Setting.png "Image for Setting of DeskTop Mascot")
