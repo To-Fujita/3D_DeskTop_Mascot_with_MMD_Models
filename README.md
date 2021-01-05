@@ -15,7 +15,7 @@ These copyrights for models and motions are owned by each party.
 
 ## 2. Demo
 After download and unzip the zip file from the "Code" above, please double click the file of "DeskTop_Mascot.sln". Then, you can create an executable file for the Desk Top Mascot as below. If you execute this program, you can change the model or motion, camera position, etc. by right click the Monkey icon at the right side of "TASKBAR".
-![Image1](https://to-fujita.github.io/Images/DeskTopMascot.png "Image for DesdkTop Mascot")
+![Image1](https://to-fujita.github.io/Images/DeskTopMascot.gif "Image for DesdkTop Mascot")
    
 If you want to create new models and new motions for the Desk Top Mascot, please refer to the next steps.  
 ### Step-1:
