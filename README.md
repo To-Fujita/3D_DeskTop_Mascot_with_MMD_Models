@@ -1,6 +1,7 @@
 # 3D_DeskTop_Mascot_with_MMD_Models
 ## 1. Description
-This is a program for 3D Desk Top Mascot based on the Visual Studio 2019 c# and DX Library. The 3D animations are used following MMD (MikuMikuDance) models and motions.  
+This is a program for 3D Desk Top Mascot based on the Visual Studio and DX Library. The 3D animations are used following MMD (MikuMikuDance) models and motions.  
+This program is created with Windows Form Apprication (.Net Framworks) C# on Visual Studio 2019.
 - MMD Models  
 (1) Ayase Hina: ©NTV http://www.ntv.co.jp/ichara/mmd.html  
 (2) Kobayashi Saya: ©NTV http://www.ntv.co.jp/ichara/mmd.html  
